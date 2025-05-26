@@ -17,7 +17,7 @@ I --> K[Victory and Play Again]
 K --> L([End])
 K --> A
 ```  
-#Flowchart desciption  
+# Flowchart desciption  
 1. Game will open with a prompt for the user to define the range of numbers it will generate a number inside of.  
 2. User will input the range. Game will validate the imput as valid or invalid and then proceed or re-prompt range input.  
 3. Game will generate the number to be guessed. User is prompted to make a guess.  
