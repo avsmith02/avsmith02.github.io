@@ -7,16 +7,16 @@ This repository will hold my assignments for the CTI-110 course, summer 2025
 # About Me  
 ## Some of My Interests  
  * Computer/video games  
-  * World of Tanks  
-  * Titan Quest  
-  * The Final Fantasy Series  
-  * Nox  
+   * World of Tanks  
+   * Titan Quest  
+   * The Final Fantasy Series  
+   * Nox  
  * Card and board games  
-  * Magic: The Gathering  
-  * The Lord of the Rings TCG _by Decipher_  
-  * The Great Dalmuti  
-  * Wizard  
-  * Uno  
+   * Magic: The Gathering  
+   * The Lord of the Rings TCG _by Decipher_  
+   * The Great Dalmuti  
+   * Wizard  
+   * Uno  
 
 ## Some Fun Websites 
  1. [EvilOverlord.com](http://www.eviloverlord.com/lists/overlord.html)  
